@@ -1,0 +1,6 @@
+{
+  "name": "Lullaby & Co. - Whimsical Baby Boutique",
+  "description": "A delightful baby boutique featuring interactive baby-themed animations, milestone toys, organic essentials, and playful animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
